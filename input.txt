@@ -1,0 +1,15 @@
+Object_ID Outlook Temperature Humidity Windy Class
+O1 sunny hot high false N
+O2 sunny hot high true N
+O3 overcast hot high false P
+O4 rain mild high false P
+O5 rain cool normal false P
+O6 rain cool normal true N
+O7 overcast cool normal true P
+O8 sunny mild high false N
+O9 sunny cool normal false P
+O10 rain mild normal false P
+O11 sunny mild normal true P
+O12 overcast mild high true P
+O13 overcast hot normal false P
+O14 rain mild high true N
